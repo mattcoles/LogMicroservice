@@ -1,0 +1,7 @@
+9d61ac4f-015e-4018-9a70-0c406ad2c5a5|15/07/2021 12:07:39|first log file
+b0e50beb-8cca-47f5-a6cd-bac15dc3cf37|15/07/2021 12:07:51|another log file
+b9597f18-e6ad-40e3-9846-2af9645af92a|15/07/2021 12:07:57|another log file
+58009cb3-8504-4e0c-b5bc-ca974143d402|15/07/2021 12:07:54|another log file
+98b94317-6a32-462e-97a0-45ae4fc96c6d|15/07/2021 12:07:26|another log file
+63e2e395-0103-4fcc-9ee2-0353b52c5466|15/07/2021 12:07:14|another log file
+70ffb896-6bbc-48b6-93ef-35d6c0d38daa|15/07/2021 12:07:09|another log file
