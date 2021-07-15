@@ -5,8 +5,8 @@ Using .Net, develop a microservice exposing an API that writes log messages from
 
 ### The Api
 
-The Api takes a POST request at __api/log__ with the log in the request body.
-Api definitions and schemas can be viewd at __/swagger/index.html__  
+The Api takes a POST request at __api/log__ with the log message in the request body.
+Api definitions and schemas can be viewed at __/swagger/index.html__  
 <br/>  
 
 ### The Log
@@ -19,7 +19,7 @@ The log message should be sent in the following format.
       "message": "The log file message"
     }
     
-If using Postman, copy and past the following code into the __Pre-request Script__ tab of the POST
+If using Postman, copy and paste the following code into the __Pre-request Script__ tab of the POST
 
     const moment = require('moment');
     pm.globals.set("today", moment().format("YYYY-MM-DDTHH:MM:SS"));
@@ -36,4 +36,4 @@ Then use the following to automatically generate the log id and date.
 ### Writing to a file
 
 Once the log has been processed and validated it is written to a text file in __\Logs\logs.txt__<br/>
-If validation fails or antoher error occurs the error is wrtten to a file in __\Logs\errors.txt__
+If validation fails or another error occurs the error is wrtten to a file in __\Logs\errors.txt__
