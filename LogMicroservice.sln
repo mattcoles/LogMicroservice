@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogMicroservice", "LogMicroservice\LogMicroservice.csproj", "{4F889E07-FF9B-4D35-B216-24B596DD4A31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F889E07-FF9B-4D35-B216-24B596DD4A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F889E07-FF9B-4D35-B216-24B596DD4A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F889E07-FF9B-4D35-B216-24B596DD4A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F889E07-FF9B-4D35-B216-24B596DD4A31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E895A3C6-5F2A-4FD3-8659-A67A5D27F065}
+	EndGlobalSection
+EndGlobal
